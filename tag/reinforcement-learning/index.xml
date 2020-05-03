@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Dhaval Salwala</title>
+    <link>https://dhavalsalwala.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Dhaval Salwala</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://dhavalsalwala.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Master&#39;s Thesis</title>
+      <link>https://dhavalsalwala.github.io/project/thesis/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/thesis/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+This thesis demonstrates the learning course of multi-agent deep reinforcement learning
+algorithms in a setup called Pursuit Evasion. Three multi-agent versions of the RL
+algorithms have been explored in this research viz. Deep Q networks (DQN), Reinforce
+and Advantage Actor-Critic (A2C). The evaluation results reveal that Reinforce has a
+better convergence rate in capturing the spatial correlation of the domain using deep
+learning. A2C is a slow learner and could do better with parameter refinements. In the
+experiments performed in this thesis, DQN did not perform well owing to the non-
+stationarity of the domain.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

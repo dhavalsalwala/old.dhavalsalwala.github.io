@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Dhaval Salwala</title>
+    <link>https://dhavalsalwala.github.io/tag/deep-learning/</link>
+      <atom:link href="https://dhavalsalwala.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 © Dhaval Salwala</copyright><lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dhavalsalwala.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>https://dhavalsalwala.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>FAST VOTE AGGREGATION SCHEME</title>
+      <link>https://dhavalsalwala.github.io/project/dawid-skene/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/dawid-skene/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+The project builds dawid skene model for classifying the polarity (i.e. positive or negative sentiment) of sentences in movie reviews. Movie reviews are collected from the Rotten Tomatoes website1 and polarity labels provided by crowd workers in Amazon Mechanical Turk.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GOVERNMENT ANALYTICS</title>
+      <link>https://dhavalsalwala.github.io/project/govt-analytics/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/govt-analytics/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+Mining pages on social networking websites like Facebook and Twitter is greatly useful in identifying sentiments of people, determining trending topics, identifying target customers for marketing, etc. The task we have considered for this assignment is determing the trending policy topics in Galway based on analysis of tweets from local media house pages like Galway Bay FM News, Galway City Council, Galway County Council, Connacht/City Tribune, RTE News, Galway 2020, Galway Drivers, St. Patrick’s Fest, Bus Eireann and Galway Page. To perform this task, we have made use of Python (for collecting tweets and processing the tweets to identify trending policies) and R (for visualizing our output). Subsequent sections include information on how data was gathered and processed, results and findings.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master&#39;s Thesis</title>
+      <link>https://dhavalsalwala.github.io/project/thesis/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/thesis/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+This thesis demonstrates the learning course of multi-agent deep reinforcement learning
+algorithms in a setup called Pursuit Evasion. Three multi-agent versions of the RL
+algorithms have been explored in this research viz. Deep Q networks (DQN), Reinforce
+and Advantage Actor-Critic (A2C). The evaluation results reveal that Reinforce has a
+better convergence rate in capturing the spatial correlation of the domain using deep
+learning. A2C is a slow learner and could do better with parameter refinements. In the
+experiments performed in this thesis, DQN did not perform well owing to the non-
+stationarity of the domain.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NEURAL MACHINE TRANSLATION - GERMAN TO ENGLISH</title>
+      <link>https://dhavalsalwala.github.io/project/neural-machine-translation/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/neural-machine-translation/</guid>
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;
+Mining pages on social networking websites like Facebook and Twitter is greatly useful in identifying sentiments of people, determining trending topics, identifying target customers for marketing, etc. The task we have considered for this assignment is determing the trending policy topics in Galway based on analysis of tweets from local media house pages like Galway Bay FM News, Galway City Council, Galway County Council, Connacht/City Tribune, RTE News, Galway 2020, Galway Drivers, St. Patrick’s Fest, Bus Eireann and Galway Page. To perform this task, we have made use of Python (for collecting tweets and processing the tweets to identify trending policies) and R (for visualizing our output). Subsequent sections include information on how data was gathered and processed, results and findings.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ONE SHOT FACE RECOGNITION IN KERAS</title>
+      <link>https://dhavalsalwala.github.io/project/one-shot-keras/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dhavalsalwala.github.io/project/one-shot-keras/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;LeNet5 based deep convolutional model in Keras with a triplet loss function.&lt;/li&gt;
+&lt;li&gt;The model is trained on 10,000 images of the VGG-Face dataset.&lt;/li&gt;
+&lt;li&gt;It uses Euclidean distance between image embeddings to predict the image class.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
